@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/PrasanthKJ/Fashion-Blog.git"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/PrasanthKJ/"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/PrasanthKJ/Fashion-Blog/blob/main/readme.md",
   "devDependencies": {
     "serve": "^11.2.0"
   }
